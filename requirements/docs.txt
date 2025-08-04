@@ -2,7 +2,7 @@ sphinx==8.2.3
 sphinxcontrib_trio==1.1.2
 sphinxcontrib-websupport==2.0.0
 myst-parser==4.0.1
-sphinxext-opengraph==0.10.0
+sphinxext-opengraph==0.11.0
 sphinx-copybutton==0.5.2
 furo@ git+https://github.com/pradyunsg/furo@193643f
 sphinx-autodoc-typehints==3.1.0
